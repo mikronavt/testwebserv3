@@ -25,6 +25,9 @@
         <module name="testwebserv3" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="testwebserv3" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 
